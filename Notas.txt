@@ -1,0 +1,4 @@
+    Clase #1: 23-08-2022_Martes:
+
+JavaScript. Como mencione en mis estudios, camelCase sensitive, fuertemente tipado, y de más. Formado en Ecmascript, y muy demandado a nivel internacional.
+
