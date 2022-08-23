@@ -4,4 +4,4 @@ JavaScript. Como mencione en mis estudios, camelCase sensitive, fuertemente tipa
 
 Explicó algoritmos.
 
-Pidió instalar Node JS.
+Pidió instalar Node JS. Y la extensión para VS Code Live Server para entrar en sistema. Y Code Runner
