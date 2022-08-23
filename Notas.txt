@@ -3,3 +3,5 @@
 JavaScript. Como mencione en mis estudios, camelCase sensitive, fuertemente tipado, y de más. Formado en Ecmascript, y muy demandado a nivel internacional.
 
 Explicó algoritmos.
+
+Pidió instalar Node JS.
