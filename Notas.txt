@@ -11,3 +11,8 @@ Buscar IT Recriuters para venderme como programador.
     -Clase #2: 26-08-2022_Jueves(Ausente):
 Hoy estuvieron haciendo contenido con respecto de variables, el prompt, y cosas que ya había visto. Algo interesante a destacar, es que typeof() sirve para 
 mostrar que tipo de variable es.
+
+
+    -Clase #3: 30-08-2022_Martes:
+Hoy no estuvimos viendo mucho más de lo que yo haya estudiado. Vimos sobre todo temas como los condicionales, flujos.
+Como dato interesante, parseInt() sirve para convertir un "numero string" a entero solamente, y lo mosmo pasa con los float con parseFloat()
