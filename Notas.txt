@@ -7,3 +7,6 @@ Explicó algoritmos.
 Pidió instalar Node JS. Y la extensión para VS Code Live Server para entrar en sistema. Y Code Runner
 
 Buscar IT Recriuters para venderme como programador.
+
+    -Clase #2: 26-08-2022_Jueves(Ausente):
+Hoy estuvieron haciendo contenido con respecto de variables, el prompt, y cosas que ya había visto. Algo interesante a destacar, es que typeof() sirve para mostrar que tipo de variable es.
