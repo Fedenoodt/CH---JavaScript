@@ -24,3 +24,5 @@ Como dato interesante, parseInt() sirve para convertir un "numero string" a ente
 Algo que tengo para decir, es que el parseInt y parseFloat, son muy importantes para "validar" los tipos de números.
 
 Hoy efectivamente nos pusimos a ver y repasar los condicionales.
+
+Datazo: "Ctrl" + "}" para comentar/descomentar.
