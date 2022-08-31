@@ -20,5 +20,7 @@ Hoy no estuvimos viendo mucho más de lo que yo haya estudiado. Vimos sobre todo
 Como dato interesante, parseInt() sirve para convertir un "numero string" a entero solamente, y lo mosmo pasa con los float con parseFloat()
 -- CLASE VALIDADA --
 
-    -Post-Clase #2: 31-08-2022_Miércoles:
+    -Post-Clase #1: 31-08-2022_Miércoles:
 Algo que tengo para decir, es que el parseInt y parseFloat, son muy importantes para "validar" los tipos de números.
+
+Hoy efectivamente nos pusimos a ver y repasar los condicionales.
