@@ -26,3 +26,7 @@ Algo que tengo para decir, es que el parseInt y parseFloat, son muy importantes 
 Hoy efectivamente nos pusimos a ver y repasar los condicionales.
 
 Datazo: "Ctrl" + "}" para comentar/descomentar.
+
+[ https://chat.whatsapp.com/CUcDnI8XdZZ33EJy7f1pYM ] Es el enlace de Whatsapp del grupo.
+-- CLASE VALIDADA --
+
