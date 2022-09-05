@@ -30,3 +30,5 @@ Datazo: "Ctrl" + "}" para comentar/descomentar.
 [ https://chat.whatsapp.com/CUcDnI8XdZZ33EJy7f1pYM ] Es el enlace de Whatsapp del grupo.
 -- CLASE VALIDADA --
 
+    -Post-Clase #2: 02-09-2022_Viernes:
+Hoy fue un mero repaso de todo lo que estamos viendo de iteraciones y ciclos.
