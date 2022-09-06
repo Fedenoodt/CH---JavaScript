@@ -37,3 +37,4 @@ Hoy fue un mero repaso de todo lo que estamos viendo de iteraciones y ciclos.
     -Clase #4: 06-09-2022_Martes:
 Las funciones flecha son funciones dentro de variables que solamente devuelven un valor desde parámetros, este separado por una flecha "=>".
 Hoy evaluamos mucho todo sobre variables, y conocimos las funciones.
+Y mostró un simulador interactivo, un desafío entregable.
