@@ -38,3 +38,4 @@ Hoy fue un mero repaso de todo lo que estamos viendo de iteraciones y ciclos.
 Las funciones flecha son funciones dentro de variables que solamente devuelven un valor desde parámetros, este separado por una flecha "=>".
 Hoy evaluamos mucho todo sobre variables, y conocimos las funciones.
 Y mostró un simulador interactivo, un desafío entregable.
+-- CLASE VALIDADA --
