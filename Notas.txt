@@ -39,3 +39,6 @@ Las funciones flecha son funciones dentro de variables que solamente devuelven u
 Hoy evaluamos mucho todo sobre variables, y conocimos las funciones.
 Y mostró un simulador interactivo, un desafío entregable.
 -- CLASE VALIDADA --
+
+    -Clase #11: 29-09-2022_Jueves:
+Yo estoy resolviendo la entrega de hoy, pero de mientras estoy viendo que el profe está haciendo una superClase de repaso.
