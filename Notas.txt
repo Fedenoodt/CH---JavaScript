@@ -42,3 +42,4 @@ Y mostró un simulador interactivo, un desafío entregable.
 
     -Clase #11: 29-09-2022_Jueves:
 Yo estoy resolviendo la entrega de hoy, pero de mientras estoy viendo que el profe está haciendo una superClase de repaso.
+IMPORTANTE: El Storage, nos lo enseñó el profe, para mostrarnos que es la herramienta que "protege" los cambios, para que la página no se refresque ante eventos.
