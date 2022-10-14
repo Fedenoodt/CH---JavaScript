@@ -92,7 +92,7 @@ function main () {
     let personal = tipo >= 500 ? listaA[objetivo] : listaB[objetivo] 
     //    "personal" difiere entre el Grupo A y B de profesionales. Se encarga de ordenar, dependiendo del turno, al personal que corresponde a el turno.
 
-    let mes = meses[dt.month];
+    let mes = meses[dt.month - 1];
 //     "mes junta la información de la lista meses, para conver el numero a nombre de mes."
 
     // Breve mensaje que muestra el turno.
