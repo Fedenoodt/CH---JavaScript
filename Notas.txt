@@ -44,7 +44,11 @@ Y mostró un simulador interactivo, un desafío entregable.
 Yo estoy resolviendo la entrega de hoy, pero de mientras estoy viendo que el profe está haciendo una superClase de repaso.
 IMPORTANTE: El Storage, nos lo enseñó el profe, para mostrarnos que es la herramienta que "protege" los cambios, para que la página no se refresque ante eventos.
 
-    -Revisión del final: 11-11-2022_Viernes:
+    -Revisión del final #1: 11-11-2022_Viernes:
 Básicamente el profesor me marcó dos pautas:
 1 • El fetch no tieme ningún uso práctico. El quiere que se lo de.
 2 • El JSON presenta errores en el cierre del mismo, además de varios errores que conviene revisar.
+
+    -Revisión del final #2: 14-11-2022_Lunes:
+Otra de las cosas que el profesor me marcó, fuew que tengo una solicitud fetch que no estoy usando para nada.
+Que es la de el post, y un poco la del console.log. Eliminarlas.
